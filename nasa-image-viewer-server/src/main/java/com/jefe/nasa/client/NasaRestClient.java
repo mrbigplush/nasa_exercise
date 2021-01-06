@@ -23,7 +23,7 @@ import com.jefe.nasa.beans.RoverList;
 @Component
 public class NasaRestClient {
 	private static final String REST_URI = "https://api.nasa.gov/mars-photos/api/v1";
-	private static final String API_KEY = "gyiCAARMmpZikoFEinbhEwChPhXbRevM0AdA6s1f";
+	private static final String API_KEY = "ba67Ood4xhcIKbbE6UTf4PhzDNlCm9aJLqw07XCG";
 	private static final String API_KEY_PARAM_NAME = "api_key";
 	private static final String EARTH_DATE_PARAM_NAME = "earth_date";
 	
